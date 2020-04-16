@@ -1,0 +1,30 @@
+PODS:
+  - BTNavigationDropdownMenu (0.5)
+  - Cosmos (20.0.1)
+  - RevealingSplashView (0.6.0)
+  - SDWebImage (5.4.2):
+    - SDWebImage/Core (= 5.4.2)
+  - SDWebImage/Core (5.4.2)
+
+DEPENDENCIES:
+  - BTNavigationDropdownMenu
+  - Cosmos (~> 20.0)
+  - RevealingSplashView
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - BTNavigationDropdownMenu
+    - Cosmos
+    - RevealingSplashView
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  BTNavigationDropdownMenu: ba3a26fdb6a56c4721c31df8a0875106c259663a
+  Cosmos: b47fddf2102bb48580cd3025d9ce0a5c658a65da
+  RevealingSplashView: 40c5a770894459736acdc95655eeba0dd30ce91c
+  SDWebImage: 4ca2dc4eefae4224bea8f504251cda485a363745
+
+PODFILE CHECKSUM: 08054994e2db2562e15043710434b5c4d47c4629
+
+COCOAPODS: 1.8.4
